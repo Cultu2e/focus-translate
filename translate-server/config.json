@@ -1,0 +1,11 @@
+{
+  "baidu": {
+    "appid": "",
+    "appkey": ""
+  },
+  "youdao": {
+    "app_key": "",
+    "app_secret": ""
+  },
+  "priority": ["google", "baidu", "youdao", "mymemory"]
+}
